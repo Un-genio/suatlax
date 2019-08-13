@@ -111,7 +111,7 @@ $result=$connect->query($sql);
       </div>
       <form class="form-horizontal" action="<?php echo $_SERVER['PHP_SELF'] ?>" method="post">
         <div class="input-group mb-3">
-          <input type="text" class="form-control" placeholder="Usaurio" id="username" name="username" autofocus="true">
+          <input type="text" class="form-control" placeholder="Usuario" id="username" name="username" autofocus="true">
           <div class="input-group-append">
             <div class="input-group-text">
               <span class="fas fa-user"></span>
